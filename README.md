@@ -6,7 +6,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/TelksBr/SSH-T-PROJECT-VPN/network/members">
-      <img alt="forks" src="https://img.shields.io/github/forks/telksbr/SSH_T_PROJECT_PLUS.svg" />
+      <img alt="forks" src="https://img.shields.io/github/forks/telksbr/SSH-T-PROJECT-VPN.svg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/issues">
       <img alt="stars" src="https://img.shields.io/github/stars/telksbr/SSH-T-PROJECT-VPN.svg" />
