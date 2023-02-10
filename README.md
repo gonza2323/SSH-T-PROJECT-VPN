@@ -23,8 +23,9 @@
 - App base (DtunnelVPN)
 
 ## :heavy_exclamation_mark: requisitos
+
 * Android 5+
-* SIM sem dados..
+* SIM ATIVO (sem dados)
 * Internet para atualizar o app pela primeira vez!
 
 
