@@ -35,7 +35,7 @@
 https://github.com/TelksBr/SSH-T-PROJECT-VPN/releases
 
 ## :octocat: Credits
-@talkera 
+@TALKERA
 
 # Telegram
 ```
