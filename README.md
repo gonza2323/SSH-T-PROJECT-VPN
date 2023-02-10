@@ -40,7 +40,7 @@
 
 ````
 ## :octocat: Credits
-1. @talkera - Developer of SSHPlus Manager
+@talkera 
 
 # Canal E Grupos Do Telegram
 ```
