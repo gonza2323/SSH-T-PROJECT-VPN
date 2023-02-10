@@ -1,7 +1,7 @@
 
 <p align="center">
- <div align="center"> <img src="https://bafkreieat5zvvenjrgrc2g6qh2e7kdobw3xtfmcnqibt3lhujemtmj6cc4.ipfs.w3s.link" width="100" img> <h1 align="center"> SSH T PROJECT PLUS </h1></div>
- <p align="center"><i>Script de gerenciamento ssh e v2ray baseado no SSHPLUS</i></p>
+ <div align="center"> <img src="https://bafkreieat5zvvenjrgrc2g6qh2e7kdobw3xtfmcnqibt3lhujemtmj6cc4.ipfs.w3s.link" width="100" img> <h1 align="center"> SSH T PROJECT VPN </h1></div>
+ <p align="center"><i>CLIENTE VPN SSH & V2RAY FREE</i></p>
 </p>
   <br/>
   <p align="center">
