@@ -34,7 +34,7 @@
 * Internet para atualizar o app pela primeira vez!
 
 
-# 💻 DOWNLOAD
+# 💻 DOWNLOAD:
 
 
 https://github.com/TelksBr/SSH-T-PROJECT-VPN/releases
