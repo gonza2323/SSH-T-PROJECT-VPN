@@ -11,9 +11,6 @@
     <a href="https://github.com/TelksBr/SSH_T_PROJECT_PLUS/watchers">
       <img alt="watchers" src="https://img.shields.io/github/watchers/telksbr/SSH_T_PROJECT_PLUS.svg" />
     </a>
-    <a href="https://github.com/TelksBr/SSH_T_PROJECT_PLUS/watchers">
-      <img alt="pr-closed" src="https://img.shields.io/github/issues-pr-closed/telksbr/SSH_T_PROJECT_PLUS.svg" />
-    </a>
     <a href="https://github.com/TelksBr/">
       <img alt="mainteined" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
     </a>
