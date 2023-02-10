@@ -22,7 +22,7 @@
 - Multiplos Servidores (BR)
 - App base (DtunnelVPN)
 
-## :heavy_exclamation_mark: requisitos
+## :heavy_exclamation_mark: REQUISITOS:
 
 * Android 5+
 * SIM ATIVO (sem dados)
