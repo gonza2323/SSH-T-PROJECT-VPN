@@ -37,7 +37,7 @@
 # Como Instalar!
 
 ````
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_PLUS/main/ssh-plus)
+
 ````
 ## :octocat: Credits
 1. @talkera - Developer of SSHPlus Manager
