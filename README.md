@@ -29,7 +29,7 @@
 - App base (DtunnelVPN)
 
 ## :heavy_exclamation_mark: requisitos
-* Android 6+
+* Android 5+
 * SIM sem dados..
 * Internet para atualizar o app pela primeira vez!
 
@@ -37,7 +37,7 @@
 # Como Instalar!
 
 ````
-
+https://github.com/TelksBr/SSH-T-PROJECT-VPN/releases
 ````
 ## :octocat: Credits
 @talkera 
