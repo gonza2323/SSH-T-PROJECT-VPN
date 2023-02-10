@@ -42,7 +42,7 @@ https://github.com/TelksBr/SSH-T-PROJECT-VPN/releases
 ## :octocat: Credits
 @talkera 
 
-# Canal E Grupos Do Telegram
+# Telegram
 ```
 https://t.me/ssh_t_project
 ```
